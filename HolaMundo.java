@@ -1,7 +1,7 @@
 package holamundo;
 
 /**
- * Autor: Alvarado
+ * Autor: Angel david Alvarado Nina
  * Proyecto: Hola Mundo en NetBeans
  */
 
