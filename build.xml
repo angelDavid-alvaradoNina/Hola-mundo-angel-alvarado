@@ -1,0 +1,6 @@
+<project name="HolaMundo" default="default" basedir=".">
+    <description>Builds, tests, and runs the project HolaMundo.</description>
+    <target name="default">
+        <echo message="Compilando Hola Mundo..."/>
+    </target>
+</project>
